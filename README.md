@@ -1,4 +1,3 @@
-# vercel-configure
 
 {
     "version": 2,
